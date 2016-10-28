@@ -3,129 +3,138 @@
 
     <item
         is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_0350ae4c8655cbe17d9e94409184a2640801c7c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/guibao/.gradle/caches/modules-2/files-2.1/com.amap.api/location/3.0.0/f397c9fc1b8dc72780920ec5be5001c32627b328/location-3.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="f397c9fc1b8dc72780920ec5be5001c32627b328">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/location-3.0.0_25af49078b60b13b3af35762450984266f63ce2e.jar" />
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/location-3.0.0_25af49078b60b13b3af35762450984266f63ce2e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_33868aecaa85884b3cd61e7a85750b126ddad769.jar" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f40f207272f6e7e847b247e09e4efbeddc1eb938.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_84bdd3b9448376f0e1085dd983d5f2e364619dd8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_de88a292a5387d46aed67176a1da4b78dbe0ae1c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_5a773854d3117c19cc421c7275a4bd85855536ae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_25303a141a6317d7bf7bb4b31b438458ec716655.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_fb6d0873d8800ef40ddcbda02f3a6016c8f4227a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ae1aedb92589c2ca9a53b7d561a3fcacb111d81c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_5b6cfa0bec17280b31dcf1e5ec2037c11b4ecd5c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1f3e42aa2d3569482edae1b90789ca6887cf7a5a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_cc4e44ad99628f2b9c91fb2516d002fc7f4b886a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9a1a79c1c5678e224d68abac9b7975ca8f74c02d.jar" />
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_c189541a435f96a937bc2049feb434d1d52128db.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0de04cd387f47ccf0fbc25ab98beef95d2688667.jar" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_b8a70a8a96c3a590c29be2e2f9aba961b9459518.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_18768e134853287a8ce16dd1d4e843f1c790189b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_df67b9dcadbe71323c7a5c0d391188608f29468b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_98eec80b9b09fb56fba86601b56f30af7c0f4543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2a55cfd30edc40a7d44e756234e5cba01f53d117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_5e308d09f63ea79750af48ca3cfb52a05db2933f.jar" />
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_88a2efe5c4cc2930d203212f0f0743e5cb9d3645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_0bc25ce1d2c385d3c802e11b738e97f2c59c4373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4936457a319aea77f69617d90784e8b1793b3d14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_4dac9a0d5e669549b11d7aebdf4ae62992ed889b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_f8a6d53b0988ffeb13dd83b0b4b59b8bcdb28637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_462a12d695d1311449792dee830d271038174116.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,16 +143,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_f8ec2b8bf9f283edc492f3d70bc3b60f87bc76d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/guibao/Documents/project/amap/location/Android_Location_Demo/android_studio/MultiClientLocationDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f4c6614c5ff4f9635d5530d1ee17ff5536a2e85d.jar" />
+        <dex dex="/Users/guibao/Documents/project/amap/mapSDK3D/android-once-continue-location/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_f8ec2b8bf9f283edc492f3d70bc3b60f87bc76d8.jar" />
     </item>
 
 </items>
