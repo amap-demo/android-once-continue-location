@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MultiClientLocationDemo</string>
+    <string name="app_name">单次/连续定位</string>
 
     <string name="startLocation">开始定位</string>
     <string name="stopLocation">停止定位</string>
