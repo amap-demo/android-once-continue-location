@@ -80,6 +80,7 @@ public class MainActivity extends AppCompatActivity {
         locationClientOption.setOnceLocation(true);
         // 地址信息
         locationClientOption.setNeedAddress(true);
+        locationClientOption.setLocationCacheEnable(false);
         locationClientSingle.setLocationOption(locationClientOption);
         locationClientSingle.setLocationListener(locationSingleListener);
         locationClientSingle.startLocation();
@@ -94,6 +95,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    private AMapLocationClient locationClientContinue = null;
     /**
      * 启动连续客户端定位
      */
