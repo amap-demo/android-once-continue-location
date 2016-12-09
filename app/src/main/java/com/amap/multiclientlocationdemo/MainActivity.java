@@ -95,7 +95,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    private AMapLocationClient locationClientContinue = null;
     /**
      * 启动连续客户端定位
      */
